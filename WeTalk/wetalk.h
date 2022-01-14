@@ -119,7 +119,7 @@ public:
     Audio_Read* m_pAudioRead;                                   //读取音频对象
 
     QString savePath;
-
+	int a;
 
 };
 
